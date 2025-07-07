@@ -80,6 +80,6 @@ Retail stakeholders want to identify:
 ## “Data without action is just noise — this project turns insights into impact.”
 
 ## Let's Connect 
-- **💼 LinkedIn**:[](https://www.linkedin.com/in/yash-bilwal-4b38b4203/)
-- **🖥️ Portfolio**:[](https://yashbilwal.vercel.app/)
+- **💼 LinkedIn**:[Yash Bilwal](https://www.linkedin.com/in/yash-bilwal-4b38b4203/)
+- **🖥️ Portfolio**:[yashbilwal.app](https://yashbilwal.vercel.app/)
 - **✉️ yashkumarbilwal@gmail.com**
